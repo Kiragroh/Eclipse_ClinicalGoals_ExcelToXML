@@ -1,4 +1,4 @@
-# Clinical Goals Creator From Excel (VARIAN Eclipse TPS)
+# Clinical Goals Creator From Excel
 
 This package provides Excel-first templates and a simple Excel→XML converter so users can view, adapt, and import Clinical Goals into Varian Eclipse quickly.
 
